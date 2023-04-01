@@ -1,0 +1,1 @@
+My small program helps you to count pages and words or symbols on each page
