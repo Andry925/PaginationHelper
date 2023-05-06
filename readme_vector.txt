@@ -1,1 +1,0 @@
-My small program helps you to perform basic operations with vectors
